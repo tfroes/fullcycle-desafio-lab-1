@@ -35,4 +35,5 @@
  - Utilize docker/docker-compose para que possamos realizar os testes de sua aplicação.
  - Deploy realizado no Google Cloud Run (free tier) e endereço ativo para ser acessado.
 
- 
+ Link
+ https://fullcycle-desafio-lab-1-564453427340.southamerica-east1.run.app/clima/01032001
