@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  goapp:
+    container_name: go-app
+    hostname: dockerapp
+    build: .
+    ports:
+      - "8080:8080"

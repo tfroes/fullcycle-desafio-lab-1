@@ -1,0 +1,15 @@
+mode: set
+fullcycle-lab-3/internal/app/app.go:12.109,14.2 1 1
+fullcycle-lab-3/internal/app/app.go:16.66,22.16 2 1
+fullcycle-lab-3/internal/app/app.go:22.16,24.3 1 0
+fullcycle-lab-3/internal/app/app.go:26.2,26.17 1 1
+fullcycle-lab-3/internal/app/app.go:26.17,28.3 1 1
+fullcycle-lab-3/internal/app/app.go:30.2,32.16 2 0
+fullcycle-lab-3/internal/app/app.go:32.16,34.3 1 0
+fullcycle-lab-3/internal/app/app.go:36.2,36.31 1 0
+fullcycle-lab-3/internal/app/app.go:36.31,38.3 1 0
+fullcycle-lab-3/internal/app/app.go:42.2,44.16 2 0
+fullcycle-lab-3/internal/app/app.go:44.16,46.3 1 0
+fullcycle-lab-3/internal/app/app.go:48.2,54.19 2 0
+fullcycle-lab-3/internal/app/app.go:57.54,59.2 1 0
+fullcycle-lab-3/internal/app/app.go:61.50,63.2 1 0
